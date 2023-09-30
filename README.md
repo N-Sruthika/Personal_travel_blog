@@ -1,5 +1,8 @@
 # Persnonal_travel_blog
-•	1.	About: 
+1.**	About: **
+
+
+
             To Create a personal travel blog hosted on IBM Cloud Static Web Apps. To share travel adventures, tips, and captivating photos with the world. Use IBM Cloud Static Web Apps to easily update your blog and document your journeys. Inspire others to explore the beauty of the world and forge unforgettable memories!
 2.	Problem Statement: 
             In today's digital age, individuals often embark on exciting journeys and adventures, documenting their travel experiences through personal travel blogs. Creating a dynamic and visually appealing travel blog that showcases your adventures is essential to engaging readers and sharing your travel stories effectively. To address this need, our project aims to develop a Personal Travel Blog hosted on the IBM Cloud Web Static App platform.
