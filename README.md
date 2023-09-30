@@ -81,4 +81,3 @@
 •	Implementing engagement strategies such as scheduled posts, interactive content, and live updates to keep the audience engaged.
 •	Encouraging user-generated content with relevant hashtags and contests, and prioritizing prompt responses to comments and messages.
 •	Using visual content like graphics and infographics, and leveraging analytics tools for data-driven decisions. 
-![image](https://github.com/N-Sruthika/Persnonal_travel_blog/assets/146369112/91085084-8782-4599-8514-13ee736db114)
