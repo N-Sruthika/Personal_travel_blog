@@ -1,4 +1,4 @@
-# Persnonal_travel_blog
+# Personal_travel_blog
 1.**	About: **
 
 
