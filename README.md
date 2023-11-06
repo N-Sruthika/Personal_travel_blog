@@ -1,6 +1,6 @@
 ***PERSONAL TRAVEL BLOG***<br>
 Link: https://my.travel.blog.s3-web.us-south.cloud-object-storage.appdomain.cloud/ <br>
-![Uploading w1.png…]()
+
 
 ***HOME PAGE***:
 The front page is the virtual doorstep to our world of Tamil Nadu, and it has been carefully designed to leave a lasting impression. As visitors land on this page, they are greeted with a captivating greenery image background that perfectly encapsulates the lush beauty of this southern Indian state. They are met with inspiring quotes such as “LET’S GET INTO THE LAND OF TAMILS” and “Where Tradition Meets Tranquility!” These quotes set the tone for the exploration that awaits.
