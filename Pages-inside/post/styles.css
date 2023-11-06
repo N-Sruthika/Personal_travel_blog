@@ -1,0 +1,47 @@
+/* Common styles for all pages */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+article {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+section.comments {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+div.comment {
+    margin: 10px 0;
+}
+
+/* Add specific styles for the comments and any other elements */
+
+/* Additional styling can be added as needed */
